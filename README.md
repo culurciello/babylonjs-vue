@@ -1,4 +1,4 @@
-# vue_app
+# BabylonJS and Vue test
 
 SImple test demo of BabylonJS and Vue integration
 
