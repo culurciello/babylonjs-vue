@@ -1,6 +1,6 @@
 # vue_app
 
-This template should help get you started developing with Vue 3 in Vite.
+SImple test demo of BabylonJS and Vue integration
 
 ## Recommended IDE Setup
 
